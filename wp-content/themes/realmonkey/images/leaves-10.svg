@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180px" height="144px" viewBox="0 0 180 144" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>10</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="inhouse-LP-Copy-2" transform="translate(-475.000000, -3843.000000)" fill-rule="nonzero">
+            <g id="10" transform="translate(475.000000, 3843.000000)">
+                <path d="M0,144 L30,144 C46.5684,144 60,130.5684 60,114 L60,114 L30,114 C13.4316,114 0,127.4316 0,144 L0,144 Z" id="Shape" fill="#FFC700"></path>
+                <path d="M0,0 L0,58.5 C0,90.80838 26.8632,117 60,117 L60,117 L60,58.5 C60,26.19162 33.1368,0 0,0 L0,0 Z" id="Shape" fill="#FF743C"></path>
+                <path d="M30,57.2068966 L30,86.9523084 C30,103.547048 43.4316,117 60,117 L60,117 L60,87.2545882 C60,70.6592481 46.5684,57.2068966 30,57.2068966 L30,57.2068966 Z" id="Shape" fill="#2B2B2B"></path>
+                <path d="M180,57 L120,57 C86.8632,57 60,83.8632 60,117 L60,117 L120,117 C153.1368,117 180,90.1368 180,57 L180,57 Z" id="Shape" fill="#6ED47C"></path>
+                <path d="M119,87 L89.1516629,87 C72.4995025,87 59,100.4316 59,117 L59,117 L88.8483371,117 C105.501101,117 119,103.5684 119,87 L119,87 Z" id="Shape" fill="#2B2B2B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

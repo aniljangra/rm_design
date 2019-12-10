@@ -1,0 +1,429 @@
+2019-12-09T06:31:27+00:00 CRITICAL Uncaught Error: Class 'WC_Subscriptions_Cart' not found in /home/ar17927r/public_html/rm_design/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php:133
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): WC_Razorpay_Subscription->disable_non_subscription(Array)
+#1 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /home/ar17927r/public_html/rm_design/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(160): apply_filters('woocommerce_ava...', Array)
+#3 /home/ar17927r/public_html/rm_design/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2221): WC_Payment_Gateways->get_available_payment_gateways()
+#4 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): woocommerce_checkout_payment('')
+#5 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#6 /home/ar17927r/public_html/rm_design in /home/ar17927r/public_html/rm_design/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php on line 133
+
+2019-12-09T06:31:49+00:00 CRITICAL Uncaught Error: Class 'WC_Subscriptions_Cart' not found in /home/ar17927r/public_html/rm_design/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php:133
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): WC_Razorpay_Subscription->disable_non_subscription(Array)
+#1 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /home/ar17927r/public_html/rm_design/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(160): apply_filters('woocommerce_ava...', Array)
+#3 /home/ar17927r/public_html/rm_design/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2221): WC_Payment_Gateways->get_available_payment_gateways()
+#4 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): woocommerce_checkout_payment('')
+#5 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#6 /home/ar17927r/public_html/rm_design in /home/ar17927r/public_html/rm_design/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php on line 133
+
+2019-12-09T06:32:24+00:00 CRITICAL Uncaught Error: Class 'WC_Subscriptions_Cart' not found in /home/ar17927r/public_html/rm_design/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php:133
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): WC_Razorpay_Subscription->disable_non_subscription(Array)
+#1 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /home/ar17927r/public_html/rm_design/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(160): apply_filters('woocommerce_ava...', Array)
+#3 /home/ar17927r/public_html/rm_design/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2221): WC_Payment_Gateways->get_available_payment_gateways()
+#4 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): woocommerce_checkout_payment('')
+#5 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#6 /home/ar17927r/public_html/rm_design in /home/ar17927r/public_html/rm_design/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php on line 133
+
+2019-12-09T06:33:18+00:00 CRITICAL Uncaught Error: Class 'WC_Subscriptions_Cart' not found in /home/ar17927r/public_html/rm_design/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php:133
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): WC_Razorpay_Subscription->disable_non_subscription(Array)
+#1 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /home/ar17927r/public_html/rm_design/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(160): apply_filters('woocommerce_ava...', Array)
+#3 /home/ar17927r/public_html/rm_design/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2221): WC_Payment_Gateways->get_available_payment_gateways()
+#4 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): woocommerce_checkout_payment('')
+#5 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#6 /home/ar17927r/public_html/rm_design in /home/ar17927r/public_html/rm_design/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php on line 133
+
+2019-12-09T06:34:09+00:00 CRITICAL Uncaught Error: Class 'WC_Subscriptions_Cart' not found in /home/ar17927r/public_html/rm_design/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php:133
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): WC_Razorpay_Subscription->disable_non_subscription(Array)
+#1 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /home/ar17927r/public_html/rm_design/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(160): apply_filters('woocommerce_ava...', Array)
+#3 /home/ar17927r/public_html/rm_design/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2221): WC_Payment_Gateways->get_available_payment_gateways()
+#4 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): woocommerce_checkout_payment('')
+#5 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#6 /home/ar17927r/public_html/rm_design in /home/ar17927r/public_html/rm_design/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php on line 133
+
+2019-12-09T06:34:21+00:00 CRITICAL Uncaught Error: Class 'WC_Subscriptions_Cart' not found in /home/ar17927r/public_html/rm_design/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php:133
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): WC_Razorpay_Subscription->disable_non_subscription(Array)
+#1 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /home/ar17927r/public_html/rm_design/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(160): apply_filters('woocommerce_ava...', Array)
+#3 /home/ar17927r/public_html/rm_design/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2221): WC_Payment_Gateways->get_available_payment_gateways()
+#4 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): woocommerce_checkout_payment('')
+#5 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#6 /home/ar17927r/public_html/rm_design in /home/ar17927r/public_html/rm_design/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php on line 133
+
+2019-12-09T06:34:27+00:00 CRITICAL Uncaught Error: Class 'WC_Subscriptions_Cart' not found in /home/ar17927r/public_html/rm_design/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php:133
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): WC_Razorpay_Subscription->disable_non_subscription(Array)
+#1 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /home/ar17927r/public_html/rm_design/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(160): apply_filters('woocommerce_ava...', Array)
+#3 /home/ar17927r/public_html/rm_design/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2221): WC_Payment_Gateways->get_available_payment_gateways()
+#4 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): woocommerce_checkout_payment('')
+#5 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#6 /home/ar17927r/public_html/rm_design in /home/ar17927r/public_html/rm_design/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php on line 133
+
+2019-12-09T06:36:43+00:00 CRITICAL Uncaught Error: Class 'WC_Subscriptions_Cart' not found in /home/ar17927r/public_html/rm_design/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php:133
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): WC_Razorpay_Subscription->disable_non_subscription(Array)
+#1 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /home/ar17927r/public_html/rm_design/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(160): apply_filters('woocommerce_ava...', Array)
+#3 /home/ar17927r/public_html/rm_design/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2221): WC_Payment_Gateways->get_available_payment_gateways()
+#4 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): woocommerce_checkout_payment('')
+#5 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#6 /home/ar17927r/public_html/rm_design in /home/ar17927r/public_html/rm_design/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php on line 133
+
+2019-12-09T06:39:26+00:00 CRITICAL Uncaught Error: Class 'WC_Subscriptions_Cart' not found in /home/ar17927r/public_html/rm_design/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php:133
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): WC_Razorpay_Subscription->disable_non_subscription(Array)
+#1 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /home/ar17927r/public_html/rm_design/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(160): apply_filters('woocommerce_ava...', Array)
+#3 /home/ar17927r/public_html/rm_design/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2221): WC_Payment_Gateways->get_available_payment_gateways()
+#4 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): woocommerce_checkout_payment('')
+#5 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#6 /home/ar17927r/public_html/rm_design in /home/ar17927r/public_html/rm_design/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php on line 133
+
+2019-12-09T06:40:07+00:00 CRITICAL Uncaught Error: Class 'WC_Subscriptions_Cart' not found in /home/ar17927r/public_html/rm_design/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php:133
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): WC_Razorpay_Subscription->disable_non_subscription(Array)
+#1 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /home/ar17927r/public_html/rm_design/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(160): apply_filters('woocommerce_ava...', Array)
+#3 /home/ar17927r/public_html/rm_design/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2221): WC_Payment_Gateways->get_available_payment_gateways()
+#4 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): woocommerce_checkout_payment('')
+#5 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#6 /home/ar17927r/public_html/rm_design in /home/ar17927r/public_html/rm_design/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php on line 133
+
+2019-12-09T06:40:10+00:00 CRITICAL Uncaught Error: Class 'WC_Subscriptions_Cart' not found in /home/ar17927r/public_html/rm_design/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php:133
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): WC_Razorpay_Subscription->disable_non_subscription(Array)
+#1 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /home/ar17927r/public_html/rm_design/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(160): apply_filters('woocommerce_ava...', Array)
+#3 /home/ar17927r/public_html/rm_design/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2221): WC_Payment_Gateways->get_available_payment_gateways()
+#4 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): woocommerce_checkout_payment('')
+#5 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#6 /home/ar17927r/public_html/rm_design in /home/ar17927r/public_html/rm_design/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php on line 133
+
+2019-12-09T06:40:33+00:00 CRITICAL Uncaught Error: Class 'WC_Subscriptions_Cart' not found in /home/ar17927r/public_html/rm_design/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php:133
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): WC_Razorpay_Subscription->disable_non_subscription(Array)
+#1 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /home/ar17927r/public_html/rm_design/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(160): apply_filters('woocommerce_ava...', Array)
+#3 /home/ar17927r/public_html/rm_design/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2221): WC_Payment_Gateways->get_available_payment_gateways()
+#4 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): woocommerce_checkout_payment('')
+#5 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#6 /home/ar17927r/public_html/rm_design in /home/ar17927r/public_html/rm_design/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php on line 133
+
+2019-12-09T06:40:36+00:00 CRITICAL Uncaught Error: Class 'WC_Subscriptions_Cart' not found in /home/ar17927r/public_html/rm_design/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php:133
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): WC_Razorpay_Subscription->disable_non_subscription(Array)
+#1 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /home/ar17927r/public_html/rm_design/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(160): apply_filters('woocommerce_ava...', Array)
+#3 /home/ar17927r/public_html/rm_design/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2221): WC_Payment_Gateways->get_available_payment_gateways()
+#4 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): woocommerce_checkout_payment('')
+#5 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#6 /home/ar17927r/public_html/rm_design in /home/ar17927r/public_html/rm_design/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php on line 133
+
+2019-12-09T07:48:38+00:00 CRITICAL Uncaught Error: Call to a member function process_payment() on null in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php:448
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): create_vip_order_callback('')
+#1 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/ar17927r/public_html/rm_design/wp-admin/admin-ajax.php(175): do_action('wp_ajax_create_...')
+#4 {main}
+  thrown in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php on line 448
+
+2019-12-09T07:48:44+00:00 CRITICAL Uncaught Error: Call to a member function process_payment() on null in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php:448
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): create_vip_order_callback('')
+#1 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/ar17927r/public_html/rm_design/wp-admin/admin-ajax.php(175): do_action('wp_ajax_create_...')
+#4 {main}
+  thrown in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php on line 448
+
+2019-12-09T07:48:53+00:00 CRITICAL Uncaught Error: Call to a member function process_payment() on null in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php:448
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): create_vip_order_callback('')
+#1 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/ar17927r/public_html/rm_design/wp-admin/admin-ajax.php(175): do_action('wp_ajax_create_...')
+#4 {main}
+  thrown in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php on line 448
+
+2019-12-09T07:49:07+00:00 CRITICAL Uncaught Error: Call to a member function process_payment() on null in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php:448
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): create_vip_order_callback('')
+#1 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/ar17927r/public_html/rm_design/wp-admin/admin-ajax.php(175): do_action('wp_ajax_create_...')
+#4 {main}
+  thrown in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php on line 448
+
+2019-12-09T07:49:21+00:00 CRITICAL Uncaught Error: Call to a member function process_payment() on null in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php:448
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): create_vip_order_callback('')
+#1 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/ar17927r/public_html/rm_design/wp-admin/admin-ajax.php(175): do_action('wp_ajax_create_...')
+#4 {main}
+  thrown in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php on line 448
+
+2019-12-09T08:29:35+00:00 CRITICAL Uncaught Error: Call to a member function process_payment() on null in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php:448
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): create_vip_order_callback('')
+#1 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/ar17927r/public_html/rm_design/wp-admin/admin-ajax.php(175): do_action('wp_ajax_create_...')
+#4 {main}
+  thrown in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php on line 448
+
+2019-12-09T08:29:37+00:00 CRITICAL Uncaught Error: Call to a member function process_payment() on null in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php:448
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): create_vip_order_callback('')
+#1 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/ar17927r/public_html/rm_design/wp-admin/admin-ajax.php(175): do_action('wp_ajax_create_...')
+#4 {main}
+  thrown in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php on line 448
+
+2019-12-09T08:29:43+00:00 CRITICAL Uncaught Error: Call to a member function process_payment() on null in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php:448
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): create_vip_order_callback('')
+#1 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/ar17927r/public_html/rm_design/wp-admin/admin-ajax.php(175): do_action('wp_ajax_create_...')
+#4 {main}
+  thrown in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php on line 448
+
+2019-12-09T08:29:51+00:00 CRITICAL Uncaught Error: Call to a member function process_payment() on null in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php:448
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): create_vip_order_callback('')
+#1 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/ar17927r/public_html/rm_design/wp-admin/admin-ajax.php(175): do_action('wp_ajax_create_...')
+#4 {main}
+  thrown in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php on line 448
+
+2019-12-09T08:29:55+00:00 CRITICAL Uncaught Error: Call to a member function process_payment() on null in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php:448
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): create_vip_order_callback('')
+#1 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/ar17927r/public_html/rm_design/wp-admin/admin-ajax.php(175): do_action('wp_ajax_create_...')
+#4 {main}
+  thrown in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php on line 448
+
+2019-12-09T08:29:57+00:00 CRITICAL Uncaught Error: Call to a member function process_payment() on null in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php:448
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): create_vip_order_callback('')
+#1 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/ar17927r/public_html/rm_design/wp-admin/admin-ajax.php(175): do_action('wp_ajax_create_...')
+#4 {main}
+  thrown in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php on line 448
+
+2019-12-09T08:29:59+00:00 CRITICAL Uncaught Error: Call to a member function process_payment() on null in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php:448
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): create_vip_order_callback('')
+#1 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/ar17927r/public_html/rm_design/wp-admin/admin-ajax.php(175): do_action('wp_ajax_create_...')
+#4 {main}
+  thrown in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php on line 448
+
+2019-12-09T08:30:04+00:00 CRITICAL Uncaught Error: Call to a member function process_payment() on null in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php:448
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): create_vip_order_callback('')
+#1 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/ar17927r/public_html/rm_design/wp-admin/admin-ajax.php(175): do_action('wp_ajax_create_...')
+#4 {main}
+  thrown in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php on line 448
+
+2019-12-09T08:30:51+00:00 CRITICAL Uncaught Error: Call to a member function process_payment() on null in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php:448
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): create_vip_order_callback('')
+#1 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/ar17927r/public_html/rm_design/wp-admin/admin-ajax.php(175): do_action('wp_ajax_create_...')
+#4 {main}
+  thrown in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php on line 448
+
+2019-12-09T08:30:54+00:00 CRITICAL Uncaught Error: Call to a member function process_payment() on null in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php:448
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): create_vip_order_callback('')
+#1 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/ar17927r/public_html/rm_design/wp-admin/admin-ajax.php(175): do_action('wp_ajax_create_...')
+#4 {main}
+  thrown in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php on line 448
+
+2019-12-09T08:39:45+00:00 CRITICAL Uncaught Error: Call to a member function process_payment() on null in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php:448
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): create_vip_order_callback('')
+#1 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/ar17927r/public_html/rm_design/wp-admin/admin-ajax.php(175): do_action('wp_ajax_create_...')
+#4 {main}
+  thrown in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php on line 448
+
+2019-12-09T08:39:49+00:00 CRITICAL Uncaught Error: Call to a member function process_payment() on null in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php:448
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): create_vip_order_callback('')
+#1 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/ar17927r/public_html/rm_design/wp-admin/admin-ajax.php(175): do_action('wp_ajax_create_...')
+#4 {main}
+  thrown in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php on line 448
+
+2019-12-09T08:39:50+00:00 CRITICAL Uncaught Error: Call to a member function process_payment() on null in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php:448
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): create_vip_order_callback('')
+#1 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/ar17927r/public_html/rm_design/wp-admin/admin-ajax.php(175): do_action('wp_ajax_create_...')
+#4 {main}
+  thrown in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php on line 448
+
+2019-12-09T08:39:51+00:00 CRITICAL Uncaught Error: Call to a member function process_payment() on null in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php:448
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): create_vip_order_callback('')
+#1 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/ar17927r/public_html/rm_design/wp-admin/admin-ajax.php(175): do_action('wp_ajax_create_...')
+#4 {main}
+  thrown in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php on line 448
+
+2019-12-09T08:39:54+00:00 CRITICAL Uncaught Error: Call to a member function process_payment() on null in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php:448
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): create_vip_order_callback('')
+#1 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/ar17927r/public_html/rm_design/wp-admin/admin-ajax.php(175): do_action('wp_ajax_create_...')
+#4 {main}
+  thrown in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php on line 448
+
+2019-12-09T08:39:55+00:00 CRITICAL Uncaught Error: Call to a member function process_payment() on null in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php:448
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): create_vip_order_callback('')
+#1 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/ar17927r/public_html/rm_design/wp-admin/admin-ajax.php(175): do_action('wp_ajax_create_...')
+#4 {main}
+  thrown in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php on line 448
+
+2019-12-09T08:39:57+00:00 CRITICAL Uncaught Error: Call to a member function process_payment() on null in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php:448
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): create_vip_order_callback('')
+#1 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/ar17927r/public_html/rm_design/wp-admin/admin-ajax.php(175): do_action('wp_ajax_create_...')
+#4 {main}
+  thrown in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php on line 448
+
+2019-12-09T08:40:05+00:00 CRITICAL Uncaught Error: Call to a member function process_payment() on null in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php:448
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): create_vip_order_callback('')
+#1 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/ar17927r/public_html/rm_design/wp-admin/admin-ajax.php(175): do_action('wp_ajax_create_...')
+#4 {main}
+  thrown in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php on line 448
+
+2019-12-09T08:40:06+00:00 CRITICAL Uncaught Error: Call to a member function process_payment() on null in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php:448
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): create_vip_order_callback('')
+#1 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/ar17927r/public_html/rm_design/wp-admin/admin-ajax.php(175): do_action('wp_ajax_create_...')
+#4 {main}
+  thrown in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php on line 448
+
+2019-12-09T08:40:07+00:00 CRITICAL Uncaught Error: Call to a member function process_payment() on null in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php:448
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): create_vip_order_callback('')
+#1 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/ar17927r/public_html/rm_design/wp-admin/admin-ajax.php(175): do_action('wp_ajax_create_...')
+#4 {main}
+  thrown in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php on line 448
+
+2019-12-09T08:40:17+00:00 CRITICAL Uncaught Error: Call to a member function process_payment() on null in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php:448
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): create_vip_order_callback('')
+#1 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/ar17927r/public_html/rm_design/wp-admin/admin-ajax.php(175): do_action('wp_ajax_create_...')
+#4 {main}
+  thrown in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php on line 448
+
+2019-12-09T08:40:18+00:00 CRITICAL Uncaught Error: Call to a member function process_payment() on null in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php:448
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): create_vip_order_callback('')
+#1 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/ar17927r/public_html/rm_design/wp-admin/admin-ajax.php(175): do_action('wp_ajax_create_...')
+#4 {main}
+  thrown in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php on line 448
+
+2019-12-09T08:51:58+00:00 CRITICAL Uncaught Error: Call to a member function process_payment() on null in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php:448
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): create_vip_order_callback('')
+#1 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/ar17927r/public_html/rm_design/wp-admin/admin-ajax.php(175): do_action('wp_ajax_create_...')
+#4 {main}
+  thrown in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php on line 448
+
+2019-12-09T08:51:59+00:00 CRITICAL Uncaught Error: Call to a member function process_payment() on null in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php:448
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): create_vip_order_callback('')
+#1 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/ar17927r/public_html/rm_design/wp-admin/admin-ajax.php(175): do_action('wp_ajax_create_...')
+#4 {main}
+  thrown in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php on line 448
+
+2019-12-09T08:55:09+00:00 CRITICAL Uncaught Error: Call to a member function process_payment() on null in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php:448
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): create_vip_order_callback('')
+#1 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/ar17927r/public_html/rm_design/wp-admin/admin-ajax.php(175): do_action('wp_ajax_create_...')
+#4 {main}
+  thrown in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php on line 448
+
+2019-12-09T08:55:34+00:00 CRITICAL Uncaught Error: Call to a member function process_payment() on null in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php:448
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): create_vip_order_callback('')
+#1 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/ar17927r/public_html/rm_design/wp-admin/admin-ajax.php(175): do_action('wp_ajax_create_...')
+#4 {main}
+  thrown in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php on line 448
+
+2019-12-09T12:23:15+00:00 CRITICAL Uncaught Error: Call to a member function set() on null in /home/ar17927r/public_html/rm_design/wp-content/plugins/paid-memberships-pro/shortcodes/pmpro_account.php:99
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/paid-memberships-pro/pages/account.php(2): pmpro_shortcode_account('')
+#1 /home/ar17927r/public_html/rm_design/wp-content/plugins/paid-memberships-pro/includes/functions.php(327): include('/home/ar17927r/...')
+#2 /home/ar17927r/public_html/rm_design/wp-content/plugins/paid-memberships-pro/includes/init.php(82): pmpro_loadTemplate('account', 'local', 'pages')
+#3 /home/ar17927r/public_html/rm_design/wp-includes/shortcodes.php(325): pmpro_pages_shortcode('', '', 'pmpro_account')
+#4 [internal function]: do_shortcode_tag(Array)
+#5 /home/ar17927r/public_html/rm_design/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(pmpro_...', 'do_shortcode_ta...', '[pmpro_account]...')
+#6 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): do_sho in /home/ar17927r/public_html/rm_design/wp-content/plugins/paid-memberships-pro/shortcodes/pmpro_account.php on line 99
+
+2019-12-09T12:28:58+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /home/ar17927r/public_html/rm_design/wp-content/plugins/paid-memberships-pro/shortcodes/pmpro_account.php:103
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/paid-memberships-pro/pages/account.php(2): pmpro_shortcode_account('')
+#1 /home/ar17927r/public_html/rm_design/wp-content/plugins/paid-memberships-pro/includes/functions.php(327): include('/home/ar17927r/...')
+#2 /home/ar17927r/public_html/rm_design/wp-content/plugins/paid-memberships-pro/includes/init.php(82): pmpro_loadTemplate('account', 'local', 'pages')
+#3 /home/ar17927r/public_html/rm_design/wp-includes/shortcodes.php(325): pmpro_pages_shortcode('', '', 'pmpro_account')
+#4 [internal function]: do_shortcode_tag(Array)
+#5 /home/ar17927r/public_html/rm_design/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(pmpro_...', 'do_shortcode_ta...', '[pmpro_account]...')
+#6 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288) in /home/ar17927r/public_html/rm_design/wp-content/plugins/paid-memberships-pro/shortcodes/pmpro_account.php on line 103
+

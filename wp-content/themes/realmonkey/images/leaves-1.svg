@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="60px" viewBox="0 0 90 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="inhouse-LP-Copy-2" transform="translate(-86.000000, -420.000000)" fill-rule="nonzero">
+            <g id="1" transform="translate(86.000000, 420.000000)">
+                <path d="M30,60 L30,30 C30,13.4316 16.5684,0 0,0 L0,0 L0,30 C0,46.5684 13.4316,60 30,60 L30,60 Z" id="Shape" fill="#2B2B2B"></path>
+                <path d="M60,60 C76.5684,60 90,46.5684 90,30 C90,13.4316 76.5684,0 60,0 C43.4316,0 30,13.4316 30,30 L30,60 L60,60 Z" id="Shape" fill="#FF743C"></path>
+            </g>
+        </g>
+    </g>
+</svg>

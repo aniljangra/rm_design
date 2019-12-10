@@ -1,0 +1,32 @@
+2019-12-05T07:06:25+00:00 CRITICAL syntax error, unexpected end of file in /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php on line 465
+
+2019-12-05T07:55:46+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function pmpro_report_login_wp_login(), 1 passed in /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /home/ar17927r/public_html/rm_design/wp-content/plugins/paid-memberships-pro/adminpages/reports/login.php:529
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): pmpro_report_login_wp_login('jai')
+#1 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php(474): do_action('wp_login', 'jai')
+#4 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): auto_login_new_user(8)
+#5 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(true, Array)
+#6 /home/ar17927r/public_html/rm_design/wp-incl in /home/ar17927r/public_html/rm_design/wp-content/plugins/paid-memberships-pro/adminpages/reports/login.php on line 529
+
+2019-12-05T07:57:26+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function pmpro_report_login_wp_login(), 1 passed in /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /home/ar17927r/public_html/rm_design/wp-content/plugins/paid-memberships-pro/adminpages/reports/login.php:529
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): pmpro_report_login_wp_login('choti')
+#1 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php(474): do_action('wp_login', 'choti')
+#4 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): auto_login_new_user(9)
+#5 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(true, Array)
+#6 /home/ar17927r/public_html/rm_design/wp- in /home/ar17927r/public_html/rm_design/wp-content/plugins/paid-memberships-pro/adminpages/reports/login.php on line 529
+
+2019-12-05T07:59:26+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function pmpro_report_login_wp_login(), 1 passed in /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /home/ar17927r/public_html/rm_design/wp-content/plugins/paid-memberships-pro/adminpages/reports/login.php:529
+Stack trace:
+#0 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): pmpro_report_login_wp_login('jai12')
+#1 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /home/ar17927r/public_html/rm_design/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/ar17927r/public_html/rm_design/wp-content/themes/realmonkey/functions.php(474): do_action('wp_login', 'jai12')
+#4 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(288): auto_login_new_user(10)
+#5 /home/ar17927r/public_html/rm_design/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(true, Array)
+#6 /home/ar17927r/public_html/rm_design/wp in /home/ar17927r/public_html/rm_design/wp-content/plugins/paid-memberships-pro/adminpages/reports/login.php on line 529
+

@@ -1,0 +1,251 @@
+@media only screen and (max-width: 1100px) {
+.header-banner .leaves-2 {
+	position: absolute;
+	right: -20px;
+}
+}
+ @media only screen and (max-width: 1000px) {
+#why-unique {
+	display:none;
+}
+.leaves-4, .leaves-3, .leaves-9, .leaves-8, .leaves-7, .leaves-11, .leaves-10 {
+	display:none;
+}
+.navbar-nav {
+	margin: 20px 0 0 0px;
+	top: 0px;
+	border-bottom:5px solid #2b2b2b;
+}
+.navbar-light .navbar-nav .nav-link {
+ padding: .5rem 15px;
+}
+.header-banner .leaves-2 {
+	right: 0px;
+}
+.navbar-nav li {
+	border-bottom:1px solid #2b2b2b;
+}
+.navbar-light .navbar-nav .nav-link {
+	padding:15px 20px;
+}
+.pricing .pricing-img {
+	display:none;
+}
+.start-trial .start-trial-form::before {
+	width:100%;
+}
+.trial-input {
+	border-left:0px solid #FFF;
+	height: 100%;
+}
+.btn-start-trial {
+	font-size: 16px;
+	padding: 10px 15px;
+}
+.mesg-lastweek {
+	margin: 0px 0 0 20px;
+}
+.header-banner {
+	padding-bottom: 50px;
+}
+.h2 {
+	font-size:50px;
+}
+.header-banner .pehra1 {
+	width: 90%;
+}
+.money-back p {
+	margin: 10px 0 0 0px;
+}
+.cando1 {
+	width: 100%;
+	margin: 0 0px 40px 0;
+	height: auto;
+}
+#whatdo {
+	padding: 20px 0 40px 0;
+}
+.portfolio-ul li {
+	float:left;
+	width:48%;
+	margin-right:4%;
+	margin-bottom:25px;
+	list-style:none;
+	background-color: #2b2b2b;
+	border-radius:10px;
+	padding:10px;
+}
+.portfolio-ul li img {
+	min-width:100%;
+}
+.portfolio-ul li:nth-child(2n) {
+	margin-right:0px;
+}
+#testimonial{ background-color:#f1f1f1; padding:0px;}
+#testimonial #testimonial-caro{     background-color: #2b2b2b; padding:20px;     margin: -1px 0 0 0;}
+#faq-accordion .card-header {
+    font-size: 16px;
+  
+    padding: 15px 20px;
+}
+#faq-accordion .card-body {
+    padding: 0 20px 20px 20px;
+}
+.footer-header {
+    display: block;
+    text-align: center;
+}
+.copyrht {
+    display: block;
+    
+    text-align: center;
+}
+.copyrht p, .policy{
+  display: inline-block;
+}
+.footer-nav-ul li {
+      margin: 0 20px 0 20px;
+}
+.policy li {
+   
+    margin: 0 20px;
+}
+.footer-nav-ul {
+    list-style: none;
+    margin: 20px 0 0 0px;
+    padding: 0px;
+}
+
+.btn-signup {
+  
+    margin: 20px 0 0 0;
+}
+}
+ @media only screen and (max-width: 700px) {
+.pricing-main .pricing-2::before {
+	display:none;
+}
+.pricing-1, .pricing-2 {
+	width:100%;
+}
+}
+ @media only screen and (max-width: 620px) {
+.start-trial-form .float-left {
+	width:100%;
+	text-align:center;
+}
+.start-trial-form h3.heading3 {
+	padding-bottom:0px;
+}
+.start-trial-form .form-inline {
+	display:block;
+}
+.trial-input .form-control {
+	min-width: 100px;
+	width: 300px;
+	display: inline-block;
+}
+.mesg-lastweek {
+	line-height:1;
+	margin:10px 20px;
+}
+.work-6-common {
+	width: 100%;
+	height: auto;
+	background-color: #ffffff;
+	padding: 35px 20px 20px 20px;
+	position: relative;
+	float: left;
+	margin: 0 0px 45px 0;
+}
+ 
+ 
+
+
+}
+ @media only screen and (max-width: 500px) {
+#main-header .h2 {
+	font-size: 36px;
+}
+#main-header .underline {
+	border-bottom: 3px solid #2b2b2b;
+}
+.header-banner {
+	margin-top:40px;
+}
+.pehra1 {
+	font-size: 20px;
+}
+#main-header .h2 {
+	font-size: 30px;
+}
+.navbar-light .navbar-nav .nav-link {
+	padding: 12px 20px;
+}
+.h3 {
+	font-size: 24px;
+}
+.h4 {
+	font-size: 18px;
+}
+.portfolio-ul li {
+	float:left;
+	width:100%;
+	margin-right:0%;
+	margin-bottom:25px;
+	list-style:none;
+	background-color: #2b2b2b;
+	border-radius:10px;
+	padding:10px;
+}
+.portfolio-ul li img {
+	min-width:100%;
+}
+.portfolio-ul li:nth-child(2n) {
+	margin-right:0px;
+}
+.btn-dark {
+	font-size: 16px;
+}
+.btn-light {
+	font-size: 16px;
+}
+#main-header {
+	padding-bottom: 50px;
+}
+#whatdo .head {
+	margin-bottom: 50px;
+}
+.pricing-1 {
+	padding-bottom: 50px;
+}
+.test-common {
+    padding: 100px 0 0 0px;     text-align: center;
+}
+.test-photo {
+   margin-left: -42px; left:50%;
+}
+
+.pricing-2 {
+   padding-bottom: 40px;
+ 
+}
+
+
+
+
+
+
+
+
+}
+ @media only screen and (max-width: 350px) {
+.trial-input .form-control {
+	width: 260px;
+}
+.social-icons li {
+  
+    margin: 0 4px 4px 0;
+}
+
+}

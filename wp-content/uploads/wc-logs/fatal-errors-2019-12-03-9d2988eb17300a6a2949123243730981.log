@@ -1,0 +1,41 @@
+2019-12-03T05:12:07+00:00 CRITICAL Cannot redeclare add_product_cart_callback() (previously declared in /var/www/html/rm_pricing/wp-content/themes/realmonkey/functions.php:409) in /var/www/html/rm_pricing/wp-content/themes/realmonkey/functions.php on line 449
+
+2019-12-03T05:13:15+00:00 CRITICAL Cannot redeclare add_product_cart_callback() (previously declared in /var/www/html/rm_pricing/wp-content/themes/realmonkey/functions.php:409) in /var/www/html/rm_pricing/wp-content/themes/realmonkey/functions.php on line 449
+
+2019-12-03T05:30:32+00:00 CRITICAL Uncaught Error: Call to a member function process_payment() on null in /var/www/html/rm_pricing/wp-content/themes/realmonkey/functions.php:455
+Stack trace:
+#0 /var/www/html/rm_pricing/wp-includes/class-wp-hook.php(288): create_vip_order_callback('')
+#1 /var/www/html/rm_pricing/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/rm_pricing/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /var/www/html/rm_pricing/wp-admin/admin-ajax.php(175): do_action('wp_ajax_create_...')
+#4 {main}
+  thrown in /var/www/html/rm_pricing/wp-content/themes/realmonkey/functions.php on line 455
+
+2019-12-03T05:36:02+00:00 CRITICAL Uncaught Error: Call to a member function process_payment() on null in /var/www/html/rm_pricing/wp-content/themes/realmonkey/functions.php:455
+Stack trace:
+#0 /var/www/html/rm_pricing/wp-includes/class-wp-hook.php(288): create_vip_order_callback('')
+#1 /var/www/html/rm_pricing/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/rm_pricing/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /var/www/html/rm_pricing/wp-admin/admin-ajax.php(175): do_action('wp_ajax_create_...')
+#4 {main}
+  thrown in /var/www/html/rm_pricing/wp-content/themes/realmonkey/functions.php on line 455
+
+2019-12-03T05:38:00+00:00 CRITICAL Uncaught Error: Call to a member function process_payment() on null in /var/www/html/rm_pricing/wp-content/themes/realmonkey/functions.php:455
+Stack trace:
+#0 /var/www/html/rm_pricing/wp-includes/class-wp-hook.php(288): create_vip_order_callback('')
+#1 /var/www/html/rm_pricing/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/rm_pricing/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /var/www/html/rm_pricing/wp-admin/admin-ajax.php(175): do_action('wp_ajax_create_...')
+#4 {main}
+  thrown in /var/www/html/rm_pricing/wp-content/themes/realmonkey/functions.php on line 455
+
+2019-12-03T07:35:09+00:00 CRITICAL syntax error, unexpected '}' in /var/www/html/rm_pricing/wp-content/themes/realmonkey/template-parts/content/content-pricing.php on line 14
+
+2019-12-03T07:35:16+00:00 CRITICAL syntax error, unexpected '}' in /var/www/html/rm_pricing/wp-content/themes/realmonkey/template-parts/content/content-pricing.php on line 14
+
+2019-12-03T07:35:25+00:00 CRITICAL syntax error, unexpected '}' in /var/www/html/rm_pricing/wp-content/themes/realmonkey/template-parts/content/content-pricing.php on line 14
+
+2019-12-03T07:35:33+00:00 CRITICAL syntax error, unexpected '}' in /var/www/html/rm_pricing/wp-content/themes/realmonkey/template-parts/content/content-pricing.php on line 14
+
+2019-12-03T07:36:10+00:00 CRITICAL syntax error, unexpected '}' in /var/www/html/rm_pricing/wp-content/themes/realmonkey/template-parts/content/content-pricing.php on line 14
+
